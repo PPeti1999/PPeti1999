@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Péter Benjámin Pásztori! 👋
+**Full Stack Software Engineer | Cybersecurity, PKI & Cloud Architectures**
 
-<!--
-**PPeti1999/PPeti1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer specializing in building scalable, secure backend systems and modern web applications. My core expertise lies in Java (Spring Boot), .NET, and Angular, combined with a deep focus on Cybersecurity, Public Key Infrastructure (PKI), and Formal Verification.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+* **Backend:** Java 21, Spring Boot 3.x, C#, ASP.NET Core, Entity Framework
+* **Frontend:** Angular 19, TypeScript, JavaScript, Vue.js 3 (Quasar)
+* **Security & Verification:** PKI, X.509, Bouncy Castle, OpenSSL, Zero-Trust, Z3 Theorem Prover
+* **Cloud & DevOps:** Microsoft Azure (AKS), AWS, Kubernetes, Helm, Docker, GitLab CI/CD, RabbitMQ
+* **Databases:** PostgreSQL, MongoDB, MS SQL, Redis
+* **AI Integration:** AI-assisted development workflow & Prompt Engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+* **Distributed Cloud Architectures:** Architecting secure-by-design, event-driven microservices deploying on Azure Kubernetes Service (AKS).
+* **Formal Verification:** Applying mathematical precision to software security, graph algorithms, and business logic using the Z3 SMT solver.
+* **PKI & Security:** Automating certificate lifecycle management and implementing Zero-Trust principles.
+* **Modern Web Development:** Building highly responsive, type-safe SPAs utilizing Angular, RxJS, and NSwag toolchains.
+* **DevOps & Automation:** Optimizing CI/CD pipelines, containerizing applications, and implementing Infrastructure as Code (IaC).
+
+### 🏆 Featured Projects
+
+**[TicketMaster - Scalable Microservices Platform](https://github.com/PPeti1999/TicketMaster_Scalable_Microservices_Platform)** <!-- Ha ez lesz a repó neve -->
+A distributed online ticket sales system demonstrating enterprise-grade cloud-native practices. Built with **.NET 8, PostgreSQL, Redis, and MongoDB (Polyglot Persistence)**. Features asynchronous communication via **RabbitMQ & MassTransit**, API Gateway routing (Traefik), and is fully containerized for deployment on **Azure Kubernetes Service (AKS)** using Helm charts.
+
+**[Acyclic Theory Propagator for Z3 Solver](https://github.com/PPeti1999/Graph_Z3_Solver)** <!-- Cseréld ki a valós linkre -->
+A custom, high-performance Python middleware integrated with the Z3 SMT Solver to enforce acyclicity (forest property) in undirected graphs. Features dynamic cycle detection, **Conflict-Driven Clause Learning (CDCL)**, and a custom trail-based Union-Find data structure fully synchronized with Z3's backtracking mechanisms.
+
+**[HealthyApp - Lifestyle & Nutrition Tracker](https://github.com/PPeti1999/Thesis)** 
+A Full-Stack SPA developed as a University Thesis. Features a complex C# / ASP.NET Core backend with real-time recalculation algorithms, automated frontend-backend data exchange via NSwag, and a responsive Angular frontend.
+
+### 📫 Let's Connect
+* **LinkedIn:** [Péter Pásztori](https://www.linkedin.com/in/p%C3%A9ter-p%C3%A1sztori-687062408)
+* **Email:** pasztoripeti@hotmail.com
