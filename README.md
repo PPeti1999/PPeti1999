@@ -1,5 +1,5 @@
 # Hi there, I'm Péter Benjámin Pásztori! 👋
-**Full Stack Software Engineer | Cybersecurity, PKI & Cloud Architectures**
+**Full Stack Software Engineer | PKI & Cloud Architectures**
 
 I'm a software engineer specializing in building scalable, secure backend systems and modern web applications. My core expertise lies in Java (Spring Boot), .NET, and Angular, combined with a deep focus on Cybersecurity, Public Key Infrastructure (PKI), and Formal Verification.
 
