@@ -29,7 +29,7 @@ A custom, high-performance Python middleware integrated with the Z3 SMT Solver t
 **[HealthyApp - Lifestyle & Nutrition Tracker](https://github.com/PPeti1999/Thesis)** 
 A Full-Stack SPA developed as a University Thesis. Features a complex C# / ASP.NET Core backend with real-time recalculation algorithms, automated frontend-backend data exchange via NSwag, and a responsive Angular frontend.
 
-**[Medical Toolbox - Serverless AWS Application](https://github.com/PPeti1999/Amazon-AWS-base-app)** 
+**[Medical Toolbox - Serverless AWS Application](https://github.com/PPeti1999/Medical-Toolbox)** 
 A modern, cloud-native e-commerce application demonstrating serverless architecture on AWS. Built with **Next.js, React, and Tailwind CSS**, integrated with **AWS Amplify Gen 2**. Features robust authentication via **Amazon Cognito**, data management with **DynamoDB and AppSync (GraphQL)**, and secure file storage using **Amazon S3**.
 
 ### 📫 Let's Connect
