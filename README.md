@@ -20,7 +20,7 @@ I'm a software engineer specializing in building scalable, secure backend system
 
 ### 🏆 Featured Projects
 
-**[TicketMaster - Scalable Microservices Platform](https://github.com/PPeti1999/TicketMaster_Scalable_Microservices_Platform)** <!-- Ha ez lesz a repó neve -->
+**[TicketMaster - Scalable Microservices Platform](https://github.com/PPeti1999/TicketMaster)** <!-- Ha ez lesz a repó neve -->
 A distributed online ticket sales system demonstrating enterprise-grade cloud-native practices. Built with **.NET 8, PostgreSQL, Redis, and MongoDB (Polyglot Persistence)**. Features asynchronous communication via **RabbitMQ & MassTransit**, API Gateway routing (Traefik), and is fully containerized for deployment on **Azure Kubernetes Service (AKS)** using Helm charts.
 
 **[Acyclic Theory Propagator for Z3 Solver](https://github.com/PPeti1999/Graph_Z3_Solver)** <!-- Cseréld ki a valós linkre -->
